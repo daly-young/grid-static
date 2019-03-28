@@ -1,0 +1,1 @@
+.example1[data-v-76a6e029]{grid-template-areas:"a b c" "d e f" "g h i"}.example1 div[data-v-76a6e029]:first-child{grid-area:h}.example2[data-v-76a6e029]{grid-template-areas:"a e c" "d e f" "g e i"}.example2 div[data-v-76a6e029]:first-child{grid-area:e}.example3 div[data-v-76a6e029]:first-child{grid-area:3/1/4/3}
